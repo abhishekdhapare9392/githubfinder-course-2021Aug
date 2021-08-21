@@ -1,0 +1,12 @@
+.form-control:focus {
+  border-color: none !important;
+  box-shadow: none !important;
+}
+
+input[type='search']:focus {
+  cursor: pointer;
+}
+
+#searchGitHubUser:active {
+  transform: scale(0.98);
+}
